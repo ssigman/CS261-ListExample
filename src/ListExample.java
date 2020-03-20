@@ -2,10 +2,10 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 /**
- * Write a description of class ListExample here.
+ * Short Example of creating and using an ArrayList in Java.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author S. Sigman
+ * @version v1
  */
 public class ListExample
 {

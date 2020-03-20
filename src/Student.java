@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class Student here.
+ * Simple Student class used in the example.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author S. Sigman
+ * @version 1.0
  */
 public class Student
 {
