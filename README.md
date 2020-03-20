@@ -22,9 +22,11 @@
 2. Check your project settings to make sure that:
 
     - On the Project tab: 
-            + Set the Project SDK to match your SDK. 
-            + The Project Language Level is set to matchyour SDK.
-            + The Compiler project output is set to a direcgtory named *out*  under your working directory.
+        + Set the Project SDK to match your SDK. 
+        + The Project Language Level is set to matchyour SDK.
+        + The Compiler project output is set to a direcgtory named *out* under your working directory.
+            
     - On the Modules tab make sure the *src* folder is set as your sources root.
-3. Run and compile the program as you would any other Java probram.
+    
+3. Run and compile the program as you would any other Java program.
 **Note:** The ListExampe class is the executable class.
